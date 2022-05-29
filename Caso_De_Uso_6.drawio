@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-05-29T19:17:45.272Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="On5cfCGMOQE6uDryXmwN" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-29T19:20:22.392Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="9z6ZcPA9ax7gspk09HGt" version="18.0.7" type="github">
   <diagram id="mzyPExjLZmlj5HvYhDpD" name="Page-1">
     <mxGraphModel dx="1038" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="MK_wpVUh1U9wIsbpaLcY-1" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="90" width="310" height="610" as="geometry" />
+          <mxGeometry x="200" y="100" width="310" height="610" as="geometry" />
         </mxCell>
         <mxCell id="MK_wpVUh1U9wIsbpaLcY-29" value="Geração de diploma digital" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Helvetica;fontSize=12;fontColor=#000000;fillColor=default;html=1;" vertex="1" parent="MK_wpVUh1U9wIsbpaLcY-1">
           <mxGeometry x="60" y="10" width="80" height="26" as="geometry" />
@@ -26,16 +26,16 @@
           <mxGeometry x="126" y="230" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MK_wpVUh1U9wIsbpaLcY-36" value="Enviar a registradora" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;strokeColor=default;fillColor=#ffe6cc;" vertex="1" parent="MK_wpVUh1U9wIsbpaLcY-1">
-          <mxGeometry y="320" width="110" height="40" as="geometry" />
+          <mxGeometry y="350" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MK_wpVUh1U9wIsbpaLcY-62" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#000000;endArrow=block;endFill=0;" edge="1" parent="MK_wpVUh1U9wIsbpaLcY-1" source="MK_wpVUh1U9wIsbpaLcY-37" target="MK_wpVUh1U9wIsbpaLcY-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MK_wpVUh1U9wIsbpaLcY-37" value="Assinar registro" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;strokeColor=default;fillColor=#ffe6cc;" vertex="1" parent="MK_wpVUh1U9wIsbpaLcY-1">
-          <mxGeometry x="10" y="400" width="110" height="40" as="geometry" />
+          <mxGeometry x="131" y="350" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MK_wpVUh1U9wIsbpaLcY-38" value="Arquivar diploma" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;strokeColor=default;fillColor=#ffe6cc;" vertex="1" parent="MK_wpVUh1U9wIsbpaLcY-1">
-          <mxGeometry x="70" y="475" width="115" height="40" as="geometry" />
+          <mxGeometry x="184.75" y="410" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MK_wpVUh1U9wIsbpaLcY-39" value="Validar documentação" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;strokeColor=#000000;fillColor=#ffe6cc;" vertex="1" parent="MK_wpVUh1U9wIsbpaLcY-1">
           <mxGeometry x="188.5" y="140" width="107.5" height="40" as="geometry" />
@@ -55,10 +55,13 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="96" y="270" as="sourcePoint" />
             <mxPoint x="256" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="290" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="MK_wpVUh1U9wIsbpaLcY-61" value="Quando a IE for apenas emissora de diploma" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Helvetica;" vertex="1" parent="MK_wpVUh1U9wIsbpaLcY-1">
-          <mxGeometry x="131" y="300" width="140" height="40" as="geometry" />
+          <mxGeometry x="155" y="290" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MK_wpVUh1U9wIsbpaLcY-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#000000;endArrow=none;endFill=0;" edge="1" parent="1" source="MK_wpVUh1U9wIsbpaLcY-6" target="MK_wpVUh1U9wIsbpaLcY-35">
           <mxGeometry relative="1" as="geometry" />
@@ -145,11 +148,15 @@
         </mxCell>
         <mxCell id="MK_wpVUh1U9wIsbpaLcY-63" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;endArrow=none;endFill=0;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="MK_wpVUh1U9wIsbpaLcY-61">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330" y="380" as="targetPoint" />
+            <mxPoint x="310" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MK_wpVUh1U9wIsbpaLcY-64" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=#000000;endArrow=block;endFill=0;strokeColor=#000000;" edge="1" parent="1" source="MK_wpVUh1U9wIsbpaLcY-36" target="MK_wpVUh1U9wIsbpaLcY-40">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="560" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
