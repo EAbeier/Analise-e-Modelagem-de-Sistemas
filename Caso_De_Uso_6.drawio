@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-29T19:20:22.392Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="9z6ZcPA9ax7gspk09HGt" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-29T19:24:42.620Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="LcHOyJQxCGJkxfdT8sO6" version="18.0.7" type="github">
   <diagram id="mzyPExjLZmlj5HvYhDpD" name="Page-1">
-    <mxGraphModel dx="1038" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1730" dy="972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,14 +28,14 @@
         <mxCell id="MK_wpVUh1U9wIsbpaLcY-36" value="Enviar a registradora" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;strokeColor=default;fillColor=#ffe6cc;" vertex="1" parent="MK_wpVUh1U9wIsbpaLcY-1">
           <mxGeometry y="350" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MK_wpVUh1U9wIsbpaLcY-62" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#000000;endArrow=block;endFill=0;" edge="1" parent="MK_wpVUh1U9wIsbpaLcY-1" source="MK_wpVUh1U9wIsbpaLcY-37" target="MK_wpVUh1U9wIsbpaLcY-38">
+        <mxCell id="MK_wpVUh1U9wIsbpaLcY-62" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#000000;endArrow=block;endFill=0;" edge="1" parent="MK_wpVUh1U9wIsbpaLcY-1" source="MK_wpVUh1U9wIsbpaLcY-37" target="MK_wpVUh1U9wIsbpaLcY-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MK_wpVUh1U9wIsbpaLcY-37" value="Assinar registro" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;strokeColor=default;fillColor=#ffe6cc;" vertex="1" parent="MK_wpVUh1U9wIsbpaLcY-1">
-          <mxGeometry x="131" y="350" width="110" height="40" as="geometry" />
+          <mxGeometry x="170" y="360" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MK_wpVUh1U9wIsbpaLcY-38" value="Arquivar diploma" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;strokeColor=default;fillColor=#ffe6cc;" vertex="1" parent="MK_wpVUh1U9wIsbpaLcY-1">
-          <mxGeometry x="184.75" y="410" width="115" height="40" as="geometry" />
+          <mxGeometry x="147.5" y="420" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MK_wpVUh1U9wIsbpaLcY-39" value="Validar documentação" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;strokeColor=#000000;fillColor=#ffe6cc;" vertex="1" parent="MK_wpVUh1U9wIsbpaLcY-1">
           <mxGeometry x="188.5" y="140" width="107.5" height="40" as="geometry" />
@@ -70,22 +70,22 @@
           <mxGeometry x="645" y="240" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MK_wpVUh1U9wIsbpaLcY-11" value="Reitor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="715" y="400" width="30" height="60" as="geometry" />
+          <mxGeometry x="770" y="260" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MK_wpVUh1U9wIsbpaLcY-13" value="Decano" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="580" y="400" width="30" height="60" as="geometry" />
+          <mxGeometry x="770" y="390" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MK_wpVUh1U9wIsbpaLcY-18" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#FF4D00;textOpacity=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MK_wpVUh1U9wIsbpaLcY-13">
           <mxGeometry x="-0.0625" y="10" width="160" relative="1" as="geometry">
             <mxPoint x="610" y="400" as="sourcePoint" />
-            <mxPoint x="655" y="330" as="targetPoint" />
+            <mxPoint x="690" y="320" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MK_wpVUh1U9wIsbpaLcY-21" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#FF4D00;textOpacity=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MK_wpVUh1U9wIsbpaLcY-11">
+        <mxCell id="MK_wpVUh1U9wIsbpaLcY-21" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#FF4D00;textOpacity=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MK_wpVUh1U9wIsbpaLcY-11">
           <mxGeometry x="-0.0625" y="10" width="160" relative="1" as="geometry">
             <mxPoint x="620" y="410" as="sourcePoint" />
-            <mxPoint x="665" y="330" as="targetPoint" />
+            <mxPoint x="690" y="280" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -113,7 +113,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MK_wpVUh1U9wIsbpaLcY-30" value="Coordenador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="785" y="275" width="30" height="60" as="geometry" />
+          <mxGeometry x="760" y="100" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MK_wpVUh1U9wIsbpaLcY-31" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#FF4D00;textOpacity=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MK_wpVUh1U9wIsbpaLcY-30">
           <mxGeometry x="-0.0625" y="10" width="160" relative="1" as="geometry">
@@ -151,11 +151,17 @@
             <mxPoint x="310" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MK_wpVUh1U9wIsbpaLcY-64" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=#000000;endArrow=block;endFill=0;strokeColor=#000000;" edge="1" parent="1" source="MK_wpVUh1U9wIsbpaLcY-36" target="MK_wpVUh1U9wIsbpaLcY-40">
+        <mxCell id="MK_wpVUh1U9wIsbpaLcY-64" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=#000000;endArrow=block;endFill=0;strokeColor=#000000;" edge="1" parent="1" source="MK_wpVUh1U9wIsbpaLcY-36" target="MK_wpVUh1U9wIsbpaLcY-40">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="370" y="560" />
+              <mxPoint x="350" y="600" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MK_wpVUh1U9wIsbpaLcY-71" value="&amp;lt;&amp;lt;Extends&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#000000;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.938;entryY=0.115;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MK_wpVUh1U9wIsbpaLcY-6" target="MK_wpVUh1U9wIsbpaLcY-37">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="250" y="500" as="sourcePoint" />
+            <mxPoint x="410" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
