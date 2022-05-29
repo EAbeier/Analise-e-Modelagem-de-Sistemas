@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-29T19:31:20.958Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="wn_V3oMOK9WaG8odz_BW" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-29T19:36:18.774Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="QVu1G6WXsLfmPXRX67hP" version="18.0.7" type="github">
   <diagram id="mzyPExjLZmlj5HvYhDpD" name="Page-1">
     <mxGraphModel dx="1597" dy="897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -151,7 +151,7 @@
             <mxPoint x="650" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MK_wpVUh1U9wIsbpaLcY-50" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MK_wpVUh1U9wIsbpaLcY-22" target="MK_wpVUh1U9wIsbpaLcY-43">
+        <mxCell id="MK_wpVUh1U9wIsbpaLcY-50" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MK_wpVUh1U9wIsbpaLcY-22" target="MK_wpVUh1U9wIsbpaLcY-43">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="110" y="429.5" as="sourcePoint" />
             <mxPoint x="270" y="429.5" as="targetPoint" />
@@ -184,7 +184,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MK_wpVUh1U9wIsbpaLcY-73" value="Quando a IE for registradora e emissora de diploma" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="560" y="389.05" width="160" height="60.95" as="geometry" />
+          <mxGeometry x="570" y="400" width="160" height="60.95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
