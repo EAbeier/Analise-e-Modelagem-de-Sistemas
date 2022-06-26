@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-26T20:25:35.930Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="Yq99KDS5pXQdK08q1Xp-" version="20.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-26T20:26:57.560Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="7v3xiuyRrYuKbdKxlV2d" version="20.0.1" type="github" pages="2">
   <diagram id="oizCWcSpeDdsfs_mUZxO" name="Page-1">
-    <mxGraphModel dx="1475" dy="3398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="705" dy="2845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -249,7 +249,7 @@
           <mxGeometry x="514.75" y="-825.79" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IBRCfE0wTp70-XDyHgLj-51" value="UC06 - Obter o diploma do curso" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFE6CC;" parent="1" vertex="1">
-          <mxGeometry x="519.75" y="-330" width="150" height="60" as="geometry" />
+          <mxGeometry x="519.75" y="-310" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IBRCfE0wTp70-XDyHgLj-53" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="IBRCfE0wTp70-XDyHgLj-48" target="IBRCfE0wTp70-XDyHgLj-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -319,7 +319,7 @@
           <mxGeometry x="362.25" y="-219.99999999999994" width="152" height="70" as="geometry" />
         </mxCell>
         <mxCell id="F7dksEA1rS3Q4TjH5Xwl-23" value="UC22 - Consultar pagamentos" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFE6CC;" vertex="1" parent="1">
-          <mxGeometry x="375" y="-300" width="152" height="70" as="geometry" />
+          <mxGeometry x="355.25" y="-300" width="152" height="70" as="geometry" />
         </mxCell>
         <mxCell id="F7dksEA1rS3Q4TjH5Xwl-25" value="UC23 -&amp;nbsp;&lt;br&gt;Administrar pagamentos com cheque" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFE6CC;" vertex="1" parent="1">
           <mxGeometry x="1050" y="-941.29" width="152" height="70" as="geometry" />
@@ -456,16 +456,16 @@
         <mxCell id="F7dksEA1rS3Q4TjH5Xwl-73" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="IBRCfE0wTp70-XDyHgLj-37" target="IBRCfE0wTp70-XDyHgLj-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F7dksEA1rS3Q4TjH5Xwl-76" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="F7dksEA1rS3Q4TjH5Xwl-74" target="F7dksEA1rS3Q4TjH5Xwl-77">
+        <mxCell id="F7dksEA1rS3Q4TjH5Xwl-76" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="F7dksEA1rS3Q4TjH5Xwl-74" target="F7dksEA1rS3Q4TjH5Xwl-78">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="750" y="-1160.0000000000002" as="targetPoint" />
+            <mxPoint x="760" y="-1170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="F7dksEA1rS3Q4TjH5Xwl-74" value="UC36 - Solicitar ajuda&amp;nbsp; &amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="367.25" y="-1154" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="F7dksEA1rS3Q4TjH5Xwl-77" value="Chatbot" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="760" y="-1190" width="30" height="60" as="geometry" />
+        <mxCell id="F7dksEA1rS3Q4TjH5Xwl-78" value="«Ator»&lt;br&gt;&lt;b&gt;Chatbot&lt;/b&gt;" style="html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="750" y="-1198.79" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
