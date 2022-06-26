@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-26T20:32:44.606Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="xHE0PEnEMgQKWZOMqJ7W" version="20.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-26T20:36:33.927Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="8kZ6eNNCRV3q1UBeM9u2" version="20.0.1" type="github" pages="2">
   <diagram id="oizCWcSpeDdsfs_mUZxO" name="Page-1">
-    <mxGraphModel dx="1159" dy="3171" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1475" dy="3398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -246,8 +246,13 @@
         <mxCell id="IBRCfE0wTp70-XDyHgLj-45" value="UC05 - Fazer avaliações e trabalhos" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFE6CC;" parent="1" vertex="1">
           <mxGeometry x="365" y="-747" width="140" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="F7dksEA1rS3Q4TjH5Xwl-79" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="IBRCfE0wTp70-XDyHgLj-48" target="IBRCfE0wTp70-XDyHgLj-62">
+        <mxCell id="F7dksEA1rS3Q4TjH5Xwl-79" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;dashed=1;" edge="1" parent="1" source="IBRCfE0wTp70-XDyHgLj-48" target="IBRCfE0wTp70-XDyHgLj-62">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TEy9gPyqxgIpE1YuHZiV-1" value="&amp;lt;&amp;lt;Include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F7dksEA1rS3Q4TjH5Xwl-79">
+          <mxGeometry x="-0.1664" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="IBRCfE0wTp70-XDyHgLj-48" value="UC13 - Avaliar os trabalhos e provas" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFE6CC;" parent="1" vertex="1">
           <mxGeometry x="514.75" y="-825.79" width="160" height="50" as="geometry" />
@@ -463,6 +468,14 @@
         </mxCell>
         <mxCell id="F7dksEA1rS3Q4TjH5Xwl-78" value="«Ator»&lt;br&gt;&lt;b&gt;Chatbot&lt;/b&gt;" style="html=1;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="750" y="-1198.79" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TEy9gPyqxgIpE1YuHZiV-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;startArrow=block;startFill=1;" edge="1" parent="1" source="TEy9gPyqxgIpE1YuHZiV-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="-680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TEy9gPyqxgIpE1YuHZiV-2" value="«Ator»&lt;br&gt;&lt;b&gt;Sistema&lt;/b&gt;" style="html=1;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="700" y="-690" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
