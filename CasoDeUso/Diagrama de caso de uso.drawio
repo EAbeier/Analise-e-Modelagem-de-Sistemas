@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-26T20:30:44.744Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="pR6Qe8tS1bROd2it9LPy" version="20.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-26T20:32:44.606Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="xHE0PEnEMgQKWZOMqJ7W" version="20.0.1" type="github" pages="2">
   <diagram id="oizCWcSpeDdsfs_mUZxO" name="Page-1">
     <mxGraphModel dx="1159" dy="3171" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -304,7 +304,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="F7dksEA1rS3Q4TjH5Xwl-14" value="UC18 - Validar documentos" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="-1080" width="130" height="60" as="geometry" />
+          <mxGeometry x="1154" y="-1080" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F7dksEA1rS3Q4TjH5Xwl-17" value="UC19 - Administarar os pagamentos de contas da instituição" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFE6CC;" vertex="1" parent="1">
           <mxGeometry x="1132" y="-834.5" width="152" height="70" as="geometry" />
@@ -468,7 +468,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lc7E2QDWN7owwlIP-cte" name="Page-2">
-    <mxGraphModel dx="1038" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="811" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
