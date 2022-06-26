@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-26T19:55:58.792Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="9srLQcXuMhE0mdKAp2Ui" version="20.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-26T19:59:57.579Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="OlpAZAlAew1s4VL7NrY4" version="20.0.1" type="github" pages="2">
   <diagram id="oizCWcSpeDdsfs_mUZxO" name="Page-1">
     <mxGraphModel dx="1159" dy="3171" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -63,6 +63,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="F7dksEA1rS3Q4TjH5Xwl-47" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="IBRCfE0wTp70-XDyHgLj-5" target="F7dksEA1rS3Q4TjH5Xwl-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IBRCfE0wTp70-XDyHgLj-5" value="Aluno" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="220" y="-1028.79" width="30" height="60" as="geometry" />
         </mxCell>
@@ -116,7 +119,7 @@
           <mxGeometry x="848" y="-941.29" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IBRCfE0wTp70-XDyHgLj-9" value="UC01- Realizar Matricula" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="370" y="-1110" width="140" height="50" as="geometry" />
+          <mxGeometry x="358" y="-1083.79" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IBRCfE0wTp70-XDyHgLj-21" value="UC02 - Pagar Taxa de matrícula" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="375" y="-990" width="130" height="60" as="geometry" />
@@ -251,7 +254,7 @@
           <mxGeometry x="995" y="-718.5" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F7dksEA1rS3Q4TjH5Xwl-10" value="UC17 - Realizar Envio de documentos" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="532.5" y="-1164" width="130" height="60" as="geometry" />
+          <mxGeometry x="537.5" y="-1148.79" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F7dksEA1rS3Q4TjH5Xwl-12" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.005;entryY=0.69;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="IBRCfE0wTp70-XDyHgLj-9" target="F7dksEA1rS3Q4TjH5Xwl-10">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -282,21 +285,17 @@
             <mxPoint x="863" y="-632.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F7dksEA1rS3Q4TjH5Xwl-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="F7dksEA1rS3Q4TjH5Xwl-27" target="F7dksEA1rS3Q4TjH5Xwl-31">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1130" y="-460" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="F7dksEA1rS3Q4TjH5Xwl-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="F7dksEA1rS3Q4TjH5Xwl-27" target="F7dksEA1rS3Q4TjH5Xwl-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F7dksEA1rS3Q4TjH5Xwl-45" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="F7dksEA1rS3Q4TjH5Xwl-27" target="F7dksEA1rS3Q4TjH5Xwl-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F7dksEA1rS3Q4TjH5Xwl-27" value="Coordenador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="848" y="-482.5" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F7dksEA1rS3Q4TjH5Xwl-31" value="UC24 -&amp;nbsp;&lt;br&gt;Administrar Cursos" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFE6CC;" vertex="1" parent="1">
-          <mxGeometry x="1177" y="-518.5" width="152" height="70" as="geometry" />
+          <mxGeometry x="1170" y="-450" width="152" height="70" as="geometry" />
         </mxCell>
         <mxCell id="F7dksEA1rS3Q4TjH5Xwl-32" value="UC25 -&amp;nbsp;&lt;br&gt;Administrar Disciplinas e turmas" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFE6CC;" vertex="1" parent="1">
           <mxGeometry x="1003" y="-370" width="152" height="70" as="geometry" />
@@ -318,6 +317,12 @@
         </mxCell>
         <mxCell id="F7dksEA1rS3Q4TjH5Xwl-43" value="&amp;lt;&amp;lt;CRUD&amp;gt;&amp;gt;&lt;br&gt;UC27 - Usuários, Perfis e Permissões&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1176" y="-1148.79" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F7dksEA1rS3Q4TjH5Xwl-46" value="UC28 - Informar doença infecto-contagiosas" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="363" y="-1164" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F7dksEA1rS3Q4TjH5Xwl-48" value="UC29 - Monitorar&amp;nbsp; &amp;nbsp;&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="-1164" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
