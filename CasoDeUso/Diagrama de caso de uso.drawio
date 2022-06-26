@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-26T20:26:57.560Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="7v3xiuyRrYuKbdKxlV2d" version="20.0.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-26T20:28:16.518Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="L0gDCvxRA1q8iC9PfL6O" version="20.0.1" type="github" pages="2">
   <diagram id="oizCWcSpeDdsfs_mUZxO" name="Page-1">
-    <mxGraphModel dx="705" dy="2845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="676" dy="2824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -188,7 +188,7 @@
             <mxPoint x="780" y="-660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1G1vuEaIJRGV7UeWep0--3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" target="IBRCfE0wTp70-XDyHgLj-48" edge="1">
+        <mxCell id="1G1vuEaIJRGV7UeWep0--3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="IBRCfE0wTp70-XDyHgLj-32" target="IBRCfE0wTp70-XDyHgLj-48" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="850" y="-690" as="sourcePoint" />
@@ -245,6 +245,9 @@
         <mxCell id="IBRCfE0wTp70-XDyHgLj-45" value="UC05 - Fazer avaliações e trabalhos" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFE6CC;" parent="1" vertex="1">
           <mxGeometry x="365" y="-747" width="140" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="F7dksEA1rS3Q4TjH5Xwl-79" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="IBRCfE0wTp70-XDyHgLj-48" target="IBRCfE0wTp70-XDyHgLj-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IBRCfE0wTp70-XDyHgLj-48" value="UC13 - Avaliar os trabalhos e provas" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFE6CC;" parent="1" vertex="1">
           <mxGeometry x="514.75" y="-825.79" width="160" height="50" as="geometry" />
         </mxCell>
@@ -274,13 +277,6 @@
         </mxCell>
         <mxCell id="1G1vuEaIJRGV7UeWep0--7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" parent="1" source="IBRCfE0wTp70-XDyHgLj-32" target="IBRCfE0wTp70-XDyHgLj-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1G1vuEaIJRGV7UeWep0--10" value="&amp;lt;&amp;lt;Include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="IBRCfE0wTp70-XDyHgLj-48" target="IBRCfE0wTp70-XDyHgLj-62" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="987.25" y="-750.29" as="sourcePoint" />
-            <mxPoint x="1147.25" y="-750.29" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="riYWk4lj5S2R9eaMY5-v-10" value="UC15 - Solicitar diploma" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFE6CC;" parent="1" vertex="1">
           <mxGeometry x="1138" y="-740" width="140" height="42" as="geometry" />
