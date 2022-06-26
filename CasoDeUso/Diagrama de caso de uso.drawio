@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-26T21:31:50.498Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="I1sRZIaOpoC8IgXYeeTI" version="20.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-26T21:32:56.644Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="yAibC3k_kEVxwFZM3lIf" version="20.0.3" type="github" pages="2">
   <diagram id="oizCWcSpeDdsfs_mUZxO" name="Page-1">
     <mxGraphModel dx="1038" dy="2921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -636,7 +636,7 @@
         <mxCell id="82Cay80GpXKQxPbs34ig-26" value="+ DisciplinasTurmas:  DisciplinaTurma[]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="82Cay80GpXKQxPbs34ig-16">
           <mxGeometry y="104" width="240" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="82Cay80GpXKQxPbs34ig-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="82Cay80GpXKQxPbs34ig-21" target="82Cay80GpXKQxPbs34ig-13">
+        <mxCell id="82Cay80GpXKQxPbs34ig-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="82Cay80GpXKQxPbs34ig-22" target="82Cay80GpXKQxPbs34ig-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="82Cay80GpXKQxPbs34ig-21" value="CursoDisciplina" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
@@ -657,7 +657,7 @@
         <mxCell id="82Cay80GpXKQxPbs34ig-28" value="+ Turma:  Turma" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="82Cay80GpXKQxPbs34ig-27">
           <mxGeometry y="52" width="156" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="82Cay80GpXKQxPbs34ig-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.005;entryY=0.154;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="82Cay80GpXKQxPbs34ig-26" target="82Cay80GpXKQxPbs34ig-27">
+        <mxCell id="82Cay80GpXKQxPbs34ig-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="82Cay80GpXKQxPbs34ig-26" target="82Cay80GpXKQxPbs34ig-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="82Cay80GpXKQxPbs34ig-32" value="Turma" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
@@ -684,7 +684,7 @@
         <mxCell id="82Cay80GpXKQxPbs34ig-54" value="+Turno:  Turno" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="82Cay80GpXKQxPbs34ig-32">
           <mxGeometry y="182" width="240" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="82Cay80GpXKQxPbs34ig-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="82Cay80GpXKQxPbs34ig-36" target="82Cay80GpXKQxPbs34ig-27">
+        <mxCell id="82Cay80GpXKQxPbs34ig-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="82Cay80GpXKQxPbs34ig-36" target="82Cay80GpXKQxPbs34ig-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="82Cay80GpXKQxPbs34ig-38" value="TurmaMatricula" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
