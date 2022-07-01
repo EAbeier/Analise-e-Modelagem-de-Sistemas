@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-30T23:57:27.674Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36" etag="gz5gyZEI1M89GiIMoir4" version="20.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-01T15:32:19.309Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36" etag="aqMGeMXtiDGV1McmVetO" version="20.0.4" type="github" pages="2">
   <diagram id="oizCWcSpeDdsfs_mUZxO" name="Page-1">
-    <mxGraphModel dx="1298" dy="3067" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="830" dy="2804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -396,7 +396,7 @@
         <mxCell id="F7dksEA1rS3Q4TjH5Xwl-46" value="UC28 - Informar doença infecto-contagiosas" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="367.25" y="-1093.79" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F7dksEA1rS3Q4TjH5Xwl-48" value="UC29 - Monitorar&amp;nbsp; &amp;nbsp;&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;" parent="1" vertex="1">
+        <mxCell id="F7dksEA1rS3Q4TjH5Xwl-48" value="UC29 - Monitorar Doenças infectio-contagiosas&amp;nbsp; &amp;nbsp;&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1020" y="-1164" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F7dksEA1rS3Q4TjH5Xwl-50" value="UC29 - Solicitar prorrogação de curso&amp;nbsp; &amp;nbsp;&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;" parent="1" vertex="1">
@@ -481,7 +481,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lc7E2QDWN7owwlIP-cte" name="Page-2">
-    <mxGraphModel dx="2714" dy="2229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
