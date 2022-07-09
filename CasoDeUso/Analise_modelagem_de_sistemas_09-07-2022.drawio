@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-09T19:50:39.735Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Y5h0JGo3hs7hoS4ehdJx" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-09T19:51:11.789Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Ka2DPYrKCUDqr9nANfa9" version="20.0.4" type="github">
   <diagram id="0pszA9JIN0fBKSF9bE4M" name="Page-1">
-    <mxGraphModel dx="2782" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1944" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -132,8 +132,10 @@
         <mxCell id="E8wZ4MvcHC-AcQxwt4h6-70" value="+ Nota: Decimal" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="E8wZ4MvcHC-AcQxwt4h6-69">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="E8wZ4MvcHC-AcQxwt4h6-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="1" source="E8wZ4MvcHC-AcQxwt4h6-73" target="E8wZ4MvcHC-AcQxwt4h6-69">
+        <mxCell id="E8wZ4MvcHC-AcQxwt4h6-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="209.99999999999955" y="418" as="sourcePoint" />
+            <mxPoint x="-130.00000000000045" y="321.9999999999998" as="targetPoint" />
             <Array as="points">
               <mxPoint x="210" y="360" />
               <mxPoint x="-130" y="360" />
